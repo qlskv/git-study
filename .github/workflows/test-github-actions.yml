@@ -1,4 +1,4 @@
-name: CI
+name: test-github-actions.yml
 	
   on:
     push:
